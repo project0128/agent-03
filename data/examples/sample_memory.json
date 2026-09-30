@@ -1,0 +1,18 @@
+{
+  "_comment": "虚构示例，仅用于说明记忆数据结构，非真实用户数据",
+  "memory_id": "mem_00001",
+  "user_id": "user_example",
+  "type": "preference",
+  "content": {
+    "topic": "音乐偏好",
+    "detail": "喜欢听轻音乐，尤其是钢琴曲",
+    "confidence": 0.85,
+    "source": "conversation",
+    "first_mentioned": "2026-09-15T20:30:00+08:00",
+    "last_confirmed": "2026-09-28T19:45:00+08:00"
+  },
+  "tags": ["音乐", "偏好", "轻音乐"],
+  "importance": 0.6,
+  "decay_rate": 0.01,
+  "access_count": 3
+}
