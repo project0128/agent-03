@@ -1,14 +1,16 @@
-Copyright (c) 2026 项目0128
+MIT License
 
-All Rights Reserved.
+Copyright (c) 2026 project0128
 
-本软件及相关文档受版权法保护。未经授权，不得复制、分发或修改。
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-如需获取使用许可，请联系：
-- GitHub: https://github.com/项目0128
-- Gitee: https://gitee.com/项目0128
-
----
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
